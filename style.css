@@ -1,0 +1,15 @@
+:root {
+  --main-color: #d0d4f9;
+  --second-color: #ffdfc0;
+  --alt-color-1: #c0eade;
+  --alt-color-3: #fed5db;
+  --alt-color-2: #d0d4f9;
+}
+
+.navbar {
+  background: var(--alt-color-2);
+}
+.col {
+  align-items: center;
+  text-align: center;
+}
